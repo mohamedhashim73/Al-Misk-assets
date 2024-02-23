@@ -17,6 +17,4 @@
 - مواضيع عن الإسلام كحياة الرسول صلى الله عليه وسلم والصحابه وغيرها من المواضيع
 - تعلم الصلاة بشكل صحيح فى بإمكانك قراءة ال pdf او مشاهدة فيديو لها.
 
-يمكنك تحميل التطبيق من اللينك التالي :
-
-https://play.google.com/store/apps/details?id=com.muhammedhashim.misk_app
+يمكنك تحميل التطبيق من اللينك التالي : https://play.google.com/store/apps/details?id=com.muhammedhashim.misk_app
