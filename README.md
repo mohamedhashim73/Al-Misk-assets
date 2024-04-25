@@ -1,4 +1,5 @@
-![IMG_3588](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/7ddd2d32-6d00-4512-9211-59b96042ecfc)
+![8](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/dd95b5b1-12ba-4e53-bc10-c6332eda9d34)
+
 
 تطبيق المسك هو تطبيق ديني يحتوي على العديد من الخصائص المميزه كالتالي :
 - القرآن الكريم مع إمكانية عرض آيات الصفحة وتشغيل كل آية كصوت بشكل منفصل للشيخ محمد المنشاوي مع عرض التفسير الميسر لكل آية 
@@ -14,12 +15,24 @@
 - الإشعارات فى عند تفعيلها تتلقي مجموعه من الأذكار والتنبيهات بشكل دوري 
 - آية قرآنية تظهر بشكلٍ عشوائي من القرآن كل يوم
 - الحفظ التلقائي لاخر صفحه من القرآن قد وقفت عندها 
-- مواضيع عن الإسلام كحياة الرسول صلى الله عليه وسلم والصحابه وغيرها من المواضيع
+- مقتطفات دينية أو مواضيع عن الإسلام كحياة الرسول صلى الله عليه وسلم والصحابه وغيرها من المواضيع فى شكل فيديوهات
 - تعلم الصلاة بشكل صحيح فى بإمكانك قراءة ال pdf او مشاهدة فيديو لها.
 
 يمكنك تحميل التطبيق من اللينك التالي :
 
 https://play.google.com/store/apps/details?id=com.muhammedhashim.misk_app
+
+صور من التطبيق :
+
+![1](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/e67be434-06ef-4e55-be48-7d33d2da597f)
+![2](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/e1f1e806-b55b-4e19-9f47-2d61ca0ed7cc)
+![3](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/798ce931-0032-4645-a66b-ded07874ad75)
+![4](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/60266a85-68b1-437b-9cc8-7778fa45ee29)
+![5](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/5ceb228a-0f91-4a50-8c54-574b5c7e1ce8)
+![6](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/79e8d4a4-5c35-496d-946e-784b91d5f937)
+![7](https://github.com/mohamedhashim73/Al-Misk-assets/assets/101535118/6d443e77-86b5-487b-8837-8a726229996b)
+
+
 
 يمكنك تحميل صفحات القرآن الكريم المستعمله بالتطبيق من اللينك التالى :
 
